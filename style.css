@@ -1,0 +1,6 @@
+ul.cercle{
+    list-style-type: circle;
+}
+ol.roman{
+    list-style-type: upper-roman;
+}
